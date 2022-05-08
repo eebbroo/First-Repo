@@ -1,3 +1,5 @@
 # First-repo-ever
-This is my first repo. 
-I'm using this to learn how gitgub works.
+This is the first repository that I ever created. 
+On this Repo., you'll find all my Self-practice documents and also, AltSchool practice-Projects.
+
+My Tech. journey starts here! HURRAY!
